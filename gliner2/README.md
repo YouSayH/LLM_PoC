@@ -1,0 +1,1 @@
+https://github.com/fastino-ai/GLiNER2
